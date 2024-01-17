@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415947907483",
+    "project_id": "data-collection-8354d",
+    "storage_bucket": "data-collection-8354d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415947907483:android:5752869102a3392b8cc13e",
+        "android_client_info": {
+          "package_name": "com.example.odugur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415947907483-1q2gq3lj6ta3ihlnf1nvvp719jda8d1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyoecsAbZNG-ZeAVocdQGLlH_nGfokjgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415947907483-1q2gq3lj6ta3ihlnf1nvvp719jda8d1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

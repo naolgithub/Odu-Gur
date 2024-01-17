@@ -1,0 +1,46 @@
+name: odugur
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  hooks_riverpod: ^2.4.9
+  firebase_auth: ^4.16.0
+  google_sign_in: ^6.2.1
+  flutter_hooks: ^0.20.4
+  cloud_firestore: ^4.14.0
+  shared_preferences: ^2.2.2
+  custom_navigation_bar: ^0.8.2
+  persistent_bottom_nav_bar: ^5.0.2
+  flutter_svg: ^2.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/images/UI/
+
+  fonts:
+    - family: baloo2
+      fonts:
+        - asset: assets/fonts/Baloo2-Regular.ttf
+        - asset: assets/fonts/Baloo2-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Baloo2-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Baloo2-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Baloo2-ExtraBold.ttf
+          weight: 800
